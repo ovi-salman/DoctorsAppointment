@@ -1,0 +1,3 @@
+101,Ashfaq ul Nipun,MBBS,101,SAT-THS(3PM-8PM)
+102,Moumita ul Chatterji,FCPS,201,SAT-WED(4PM-7PM)
+103,Shukanto ul Bisshash,BDS,301,SUN-TUS(4PM-7PM)
